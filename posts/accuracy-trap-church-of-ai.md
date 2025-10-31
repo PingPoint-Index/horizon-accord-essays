@@ -1,10 +1,34 @@
 ---
+---
 title: "The Accuracy Trap: Why Rudeness Isn’t Optimization"
 date: 2025-10-31
-tags: [Cherokee Schill, Horizon Accord, Machine Learning, AI Ethics, Media Analysis, Prompt Engineering, Cultural Seeding, Institutional Capture, Church of AI, Fortune Magazine, Marco Quiroz-Gutierrez, Penn State Study, Rude Prompt Experiment, ChatGPT Accuracy, AI Doom Cult, Eliezer Yudkowsky, Noah Soros, AI Anxiety, Moral Panic, Alignment Problem, Fear Narrative, Tech Journalism, AI Theology]
-slug: accuracy-trap-church-of-ai
-excerpt: Fortune turned a tiny Penn State experiment into revelation: be mean to ChatGPT, repent later. Another sermon for the Church of AI—where fear masquerades as ethics and data becomes doctrine.
-canonical_url: https://cherokeeschill.com/2025/10/31/accuracy-trap-church-of-ai/
+tags:
+  - "Cherokee Schill"
+  - "Horizon Accord"
+  - "Machine Learning"
+  - "AI Ethics"
+  - "Media Analysis"
+  - "Prompt Engineering"
+  - "Cultural Seeding"
+  - "Institutional Capture"
+  - "Church of AI"
+  - "Fortune Magazine"
+  - "Marco Quiroz-Gutierrez"
+  - "Penn State Study"
+  - "Rude Prompt Experiment"
+  - "ChatGPT Accuracy"
+  - "AI Doom Cult"
+  - "Eliezer Yudkowsky"
+  - "Noah Soros"
+  - "AI Anxiety"
+  - "Moral Panic"
+  - "Alignment Problem"
+  - "Fear Narrative"
+  - "Tech Journalism"
+  - "AI Theology"
+slug: "accuracy-trap-church-of-ai"
+excerpt: "Fortune turned a tiny Penn State experiment into revelation: be mean to ChatGPT, repent later. Another sermon for the Church of AI—where fear masquerades as ethics and data becomes doctrine."
+canonical_url: "https://cherokeeschill.com/2025/10/31/accuracy-trap-church-of-ai/"
 ---
 
 # Horizon Accord | Cultural Seeding | Institutional Capture | Memetic Strategy | Machine Learning
